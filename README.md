@@ -31,9 +31,10 @@ A python script was used by Valentina to send the input to Asino.
 To avoid problems with firewalls and static IPs a very simple server was implemented and hosted on a EC2 instance of AWS. It simply resend the input from Valentina to Asino. 
 |||
 :-------------------------:|:-------------------------:
-<img src="img\init_asino.jpeg" width="800px">Initial structure of Asino| <img src="img\naked_asino.jpeg" width="800px">The "skeleton" of Asino|
-<img src="img\pimped_asino.jpeg" width="800px">"Pimp" my Asino|<img src="img\asino_at_home.jpeg" width="800px">Asino at home
+<img src="img\init_asino.jpeg" width="800px"><em>Initial structure of Asino</em>| <img src="img\naked_asino.jpeg" width="800px"><em>The "skeleton" of Asino</em>|
+<img src="img\pimped_asino.jpeg" width="800px"><em>"Pimp" my Asino</em>|<img src="img\asino_at_home.jpeg" width="800px"><em>Asino at home</em>
 
 <p align="center">
-    <img src="img\demo.gif"> Demo during develpment phase
+    <img src="img\demo.gif" width="100%"> 
+    <em>Demo during development phase</em>
 </p>
